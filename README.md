@@ -5,5 +5,11 @@ Realtime Chat Application
 
 in the next project, I made a simple chat in realtime using the https://chatengine.io/ is the Rest API that Chat Engine uses to provide an easy and scalable Chat Service. Below is documentation on all the requests, from creating users (Private API) to creating chats and messages (Public API).
 
+you can check and proof the project and make the log in with the next
+usernames
+dave password 1234
+leonor password 123123
+mafe password 1212
+
 you can deploy the project in the next link below
 https://competent-northcutt-c042c2.netlify.app/
