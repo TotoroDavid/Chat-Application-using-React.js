@@ -10,6 +10,7 @@ usernames
 dave password 1234
 leonor password 123123
 mafe password 1212
+....
 
 you can deploy the project in the next link below
 https://competent-northcutt-c042c2.netlify.app/
